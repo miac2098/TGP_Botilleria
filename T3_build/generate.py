@@ -7,7 +7,7 @@ UNP = os.path.join(BASE, "unpacked")
 SLIDES = os.path.join(UNP, "ppt", "slides")
 RELS = os.path.join(SLIDES, "_rels")
 
-NAMES = "Arriagada · Faúndez · Uribe · Alfaro · Hernández · Riquelme · Alarcón · Pozo"
+NAMES = "Arriagada · Faúndez · Uribe · Alfaro · Hernández · Riquelme · Alarcón"
 BLUE = "0070C0"
 TBL_STYLE = "{5C22544A-7EE6-4342-B048-85BDC9FD1C3A}"
 
@@ -168,7 +168,7 @@ portada = [
         para("Grupo Verde", sz=1200, b=1, align="ctr", color=BLUE, spc=500),
         para("Matías Arriagada (Director)  ·  Pedro Faúndez  ·  Alejandro Uribe  ·  Bryan Alfaro",
              sz=1050, align="ctr", spc=300),
-        para("Jeremy Hernández  ·  Vicente Riquelme  ·  José Alarcón  ·  Bastián Pozo (ex director)",
+        para("Jeremy Hernández  ·  Vicente Riquelme  ·  José Alarcón",
              sz=1050, align="ctr", spc=150),
     ]),
 ]
@@ -367,9 +367,9 @@ slides.append(("Partes interesadas y comunicaciones", s8))
 s9 = [
     textbox(180, "eq", 269083, CY_TOP, CW, 3900000, [
         para("Cambios en la conformación del equipo", sz=1200, b=1, color=BLUE, spc=0),
-        para("El liderazgo del proyecto cambió durante su desarrollo. Director actual: "
-             "Matías Arriagada; Bastián Pozo (director inicial) actúa como apoyo y traspaso "
-             "de contexto.", sz=1100, bullet=0),
+        para("El liderazgo del proyecto cambió dos veces durante su desarrollo; los "
+             "directores anteriores ya no están en el equipo. Director actual: Matías Arriagada.",
+             sz=1100, bullet=0),
         para("Roles vigentes (matriz del PMP): Jefe de Proyecto (Pedro), Arquitecto (Alejandro), "
              "QA (Bryan), Programadores (Jeremy / Vicente), Base de Datos (José).",
              sz=1100, bullet=0),
@@ -377,8 +377,8 @@ s9 = [
         para("Discontinuidad por la rotación de liderazgo y un recurso pendiente "
              "(lector de código de barras).", sz=1100, bullet=0),
         para("Medidas adoptadas", sz=1200, b=1, color=BLUE, spc=500),
-        para("Traspaso de contexto del ex director, apoyo cruzado entre integrantes y "
-             "lector en préstamo para no detener las pruebas.", sz=1100, bullet=0),
+        para("Traspaso de contexto en cada cambio de dirección, apoyo cruzado entre "
+             "integrantes y lector en préstamo para no detener las pruebas.", sz=1100, bullet=0),
     ]),
 ]
 slides.append(("Gestión del equipo y recursos", s9))
@@ -416,7 +416,7 @@ s11 = [
              "(el lector) se volvió el cuello de botella de las pruebas. → Se abordó "
              "consiguiendo el equipo en préstamo.", sz=1050, bullet=0, spc=150),
         para("Error detectado: el cambio de liderazgo afectó la continuidad. → Se abordó "
-             "con traspaso documentado del director inicial y roles claros.", sz=1050, bullet=0, spc=150),
+             "con traspaso documentado en cada cambio de dirección y roles claros.", sz=1050, bullet=0, spc=150),
         para("Aprendizaje: el asistente de IA aceleró el desarrollo, pero exigió que el "
              "equipo revisara, validara y probara el código; la herramienta no reemplaza "
              "el criterio del equipo.", sz=1050, bullet=0, spc=150),

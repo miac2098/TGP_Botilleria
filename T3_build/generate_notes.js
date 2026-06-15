@@ -15,10 +15,9 @@ const dist = [
   ["Pedro Faúndez (Jefe de Proyecto)", "L2, L4", "~1,5 min"],
   ["Alejandro Uribe (Arquitecto)", "L3, L5", "~1,5 min"],
   ["Bryan Alfaro (QA)", "L6, L7", "~1,5 min"],
+  ["Vicente Riquelme (Programador)", "L8, L9", "~1,5 min"],
   ["Jeremy Hernández (Programador)", "L10", "~50 s"],
-  ["Vicente Riquelme (Programador)", "L8", "~45 s"],
   ["José Alarcón (Base de Datos)", "L11", "~45 s"],
-  ["Bastián Pozo (ex director)", "L9", "~40 s"],
 ];
 
 // --- guion por lámina: [n, titulo, expositor, tiempo, texto] ---
@@ -39,13 +38,13 @@ const guion = [
    "Durante la ejecución aparecieron dos riesgos nuevos. Uno: al cambiar a producto comercial, ya no hay un usuario real validando; lo cubrimos con validación del propio equipo y validación académica, y dejamos el usuario piloto para una etapa futura. Dos: el cambio de liderazgo, que tratamos con traspaso de contexto y roles definidos. Como riesgos residuales quedan la integración del lector sin validar al cien por ciento y la validación con usuario real; ambos acotados y con acción definida."],
   [8, "Partes interesadas y comunicaciones", "Vicente Riquelme", "~45 s",
    "En partes interesadas, el cambio principal es que el cliente específico sale del alcance al volvernos producto comercial. Los stakeholders clave ahora son el equipo, el docente y el ayudante como validadores, y el mercado potencial a futuro. El involucramiento del docente y del ayudante es alto y se concreta hoy. En comunicaciones, nuestro principal problema fue la continuidad por los cambios de liderazgo; lo corregimos con traspaso documentado y roles claros."],
-  [9, "Gestión del equipo y recursos", "Bastián Pozo", "~40 s",
-   "Sobre el equipo: el liderazgo del proyecto cambió durante el desarrollo; el director actual es Matías Arriagada y yo, como director inicial, quedé apoyando el traspaso de contexto. Los roles del PMP se mantienen: jefe de proyecto, arquitecto, QA, programadores y base de datos. El problema relevante fue la discontinuidad por el cambio de liderazgo y el recurso pendiente del lector; lo abordamos con apoyo cruzado y el lector en préstamo."],
+  [9, "Gestión del equipo y recursos", "Vicente Riquelme", "~45 s",
+   "Sobre el equipo: el liderazgo del proyecto cambió dos veces durante el desarrollo y los directores anteriores ya no están en el equipo; el director actual es Matías Arriagada. Los roles del PMP se mantienen: jefe de proyecto, arquitecto, QA, programadores y base de datos. El principal problema fue la discontinuidad por esos cambios, que abordamos con traspaso de contexto, roles claros y apoyo cruzado; sumado al recurso pendiente del lector, que resolvimos con uno en préstamo."],
   [10, "Toma de decisiones durante la ejecución", "Jeremy Hernández", "~50 s",
    "Las decisiones clave de la ejecución fueron cuatro. Migrar a aplicación web, por portabilidad. Redefinir el alcance a producto comercial. Usar un asistente de IA para acelerar el desarrollo, siendo transparentes: el equipo se concentró en los requisitos, la integración, la revisión y validación del código, las pruebas y la gestión. Y conseguir el lector en préstamo para no bloquear las pruebas. Como desafíos pendientes quedan validar el lector y obtener hoy su validación."],
   [11, "Lecciones aprendidas", "José Alarcón", "~45 s",
-   "Aprendimos varias cosas. Que las adquisiciones, aunque sean baratas, deben gestionarse desde el inicio: un ítem de 20 mil pesos fue nuestro cuello de botella. Que el cambio de liderazgo exige traspaso documentado. Y que la IA acelera el desarrollo, pero exige que el equipo revise, valide y pruebe el código; no reemplaza nuestro criterio. Como recomendación: gestionar las compras temprano con una reserva de contingencia y validar tempranamente la salida de la IA con pruebas."],
-  [12, "Conclusiones", "Javier Aguilar", "~60 s",
+   "Aprendimos varias cosas. Que las adquisiciones, aunque sean baratas, deben gestionarse desde el inicio: un ítem de 20 mil pesos fue nuestro cuello de botella. Que los cambios de liderazgo exigen traspaso documentado en cada cambio. Y que la IA acelera el desarrollo, pero exige que el equipo revise, valide y pruebe el código; no reemplaza nuestro criterio. Como recomendación: gestionar las compras temprano con una reserva de contingencia y validar tempranamente la salida de la IA con pruebas."],
+  [12, "Conclusiones", "Matías Arriagada", "~60 s",
    "Para concluir: el desempeño global es bueno, con un MVP funcional operativo en entorno local y los objetivos centrales logrados. Sin embargo, nuestra conclusión es que el proyecto aún no está en condiciones de cerrarse, pero sí de avanzar hacia el cierre, sujeto a cuatro condiciones: validar la integración del lector, completar el documento de pruebas y el manual, y formalizar la aceptación en esta instancia. Los riesgos residuales son acotados y con acción definida, por lo que recomendamos cerrar una vez cumplidas esas condiciones. Muchas gracias."],
 ];
 
