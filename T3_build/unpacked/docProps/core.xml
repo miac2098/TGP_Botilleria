@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cp:coreProperties xmlns:cp="http://schemas.openxmlformats.org/package/2006/metadata/core-properties" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dc:title>Diapositiva 1</dc:title>
+  <dc:creator>Gerardo Valenzuela Saá PMP ©</dc:creator>
+  <cp:lastModifiedBy>Gerardo Valenzuela S. PMP ©</cp:lastModifiedBy>
+  <cp:revision>1503</cp:revision>
+  <cp:lastPrinted>2025-03-11T00:23:08Z</cp:lastPrinted>
+  <dcterms:created xsi:type="dcterms:W3CDTF">2011-12-12T13:03:28Z</dcterms:created>
+  <dcterms:modified xsi:type="dcterms:W3CDTF">2025-03-16T01:51:39Z</dcterms:modified>
+</cp:coreProperties>

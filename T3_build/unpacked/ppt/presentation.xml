@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<p:presentation xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main" saveSubsetFonts="1">
+  <p:sldMasterIdLst>
+    <p:sldMasterId id="2147483782" r:id="rId1"/>
+  </p:sldMasterIdLst>
+  <p:notesMasterIdLst>
+    <p:notesMasterId r:id="rId3"/>
+  </p:notesMasterIdLst>
+  <p:sldIdLst><p:sldId id="256" r:id="rId101"/><p:sldId id="257" r:id="rId102"/><p:sldId id="258" r:id="rId103"/><p:sldId id="259" r:id="rId104"/><p:sldId id="260" r:id="rId105"/><p:sldId id="261" r:id="rId106"/><p:sldId id="262" r:id="rId107"/><p:sldId id="263" r:id="rId108"/><p:sldId id="264" r:id="rId109"/><p:sldId id="265" r:id="rId110"/><p:sldId id="266" r:id="rId111"/><p:sldId id="267" r:id="rId112"/></p:sldIdLst>
+  <p:sldSz cx="9144000" cy="5143500" type="screen16x9"/>
+  <p:notesSz cx="7099300" cy="10234613"/>
+  <p:defaultTextStyle>
+    <a:defPPr>
+      <a:defRPr lang="es-CL"/>
+    </a:defPPr>
+    <a:lvl1pPr algn="l" rtl="0" fontAlgn="base">
+      <a:spcBef>
+        <a:spcPct val="0"/>
+      </a:spcBef>
+      <a:spcAft>
+        <a:spcPct val="0"/>
+      </a:spcAft>
+      <a:defRPr kern="1200">
+        <a:solidFill>
+          <a:schemeClr val="tx1"/>
+        </a:solidFill>
+        <a:latin typeface="Arial" charset="0"/>
+        <a:ea typeface="+mn-ea"/>
+        <a:cs typeface="Arial" charset="0"/>
+      </a:defRPr>
+    </a:lvl1pPr>
+    <a:lvl2pPr marL="342900" algn="l" rtl="0" fontAlgn="base">
+      <a:spcBef>
+        <a:spcPct val="0"/>
+      </a:spcBef>
+      <a:spcAft>
+        <a:spcPct val="0"/>
+      </a:spcAft>
+      <a:defRPr kern="1200">
+        <a:solidFill>
+          <a:schemeClr val="tx1"/>
+        </a:solidFill>
+        <a:latin typeface="Arial" charset="0"/>
+        <a:ea typeface="+mn-ea"/>
+        <a:cs typeface="Arial" charset="0"/>
+      </a:defRPr>
+    </a:lvl2pPr>
+    <a:lvl3pPr marL="685800" algn="l" rtl="0" fontAlgn="base">
+      <a:spcBef>
+        <a:spcPct val="0"/>
+      </a:spcBef>
+      <a:spcAft>
+        <a:spcPct val="0"/>
+      </a:spcAft>
+      <a:defRPr kern="1200">
+        <a:solidFill>
+          <a:schemeClr val="tx1"/>
+        </a:solidFill>
+        <a:latin typeface="Arial" charset="0"/>
+        <a:ea typeface="+mn-ea"/>
+        <a:cs typeface="Arial" charset="0"/>
+      </a:defRPr>
+    </a:lvl3pPr>
+    <a:lvl4pPr marL="1028700" algn="l" rtl="0" fontAlgn="base">
+      <a:spcBef>
+        <a:spcPct val="0"/>
+      </a:spcBef>
+      <a:spcAft>
+        <a:spcPct val="0"/>
+      </a:spcAft>
+      <a:defRPr kern="1200">
+        <a:solidFill>
+          <a:schemeClr val="tx1"/>
+        </a:solidFill>
+        <a:latin typeface="Arial" charset="0"/>
+        <a:ea typeface="+mn-ea"/>
+        <a:cs typeface="Arial" charset="0"/>
+      </a:defRPr>
+    </a:lvl4pPr>
+    <a:lvl5pPr marL="1371600" algn="l" rtl="0" fontAlgn="base">
+      <a:spcBef>
+        <a:spcPct val="0"/>
+      </a:spcBef>
+      <a:spcAft>
+        <a:spcPct val="0"/>
+      </a:spcAft>
+      <a:defRPr kern="1200">
+        <a:solidFill>
+          <a:schemeClr val="tx1"/>
+        </a:solidFill>
+        <a:latin typeface="Arial" charset="0"/>
+        <a:ea typeface="+mn-ea"/>
+        <a:cs typeface="Arial" charset="0"/>
+      </a:defRPr>
+    </a:lvl5pPr>
+    <a:lvl6pPr marL="1714500" algn="l" defTabSz="685800" rtl="0" eaLnBrk="1" latinLnBrk="0" hangingPunct="1">
+      <a:defRPr kern="1200">
+        <a:solidFill>
+          <a:schemeClr val="tx1"/>
+        </a:solidFill>
+        <a:latin typeface="Arial" charset="0"/>
+        <a:ea typeface="+mn-ea"/>
+        <a:cs typeface="Arial" charset="0"/>
+      </a:defRPr>
+    </a:lvl6pPr>
+    <a:lvl7pPr marL="2057400" algn="l" defTabSz="685800" rtl="0" eaLnBrk="1" latinLnBrk="0" hangingPunct="1">
+      <a:defRPr kern="1200">
+        <a:solidFill>
+          <a:schemeClr val="tx1"/>
+        </a:solidFill>
+        <a:latin typeface="Arial" charset="0"/>
+        <a:ea typeface="+mn-ea"/>
+        <a:cs typeface="Arial" charset="0"/>
+      </a:defRPr>
+    </a:lvl7pPr>
+    <a:lvl8pPr marL="2400300" algn="l" defTabSz="685800" rtl="0" eaLnBrk="1" latinLnBrk="0" hangingPunct="1">
+      <a:defRPr kern="1200">
+        <a:solidFill>
+          <a:schemeClr val="tx1"/>
+        </a:solidFill>
+        <a:latin typeface="Arial" charset="0"/>
+        <a:ea typeface="+mn-ea"/>
+        <a:cs typeface="Arial" charset="0"/>
+      </a:defRPr>
+    </a:lvl8pPr>
+    <a:lvl9pPr marL="2743200" algn="l" defTabSz="685800" rtl="0" eaLnBrk="1" latinLnBrk="0" hangingPunct="1">
+      <a:defRPr kern="1200">
+        <a:solidFill>
+          <a:schemeClr val="tx1"/>
+        </a:solidFill>
+        <a:latin typeface="Arial" charset="0"/>
+        <a:ea typeface="+mn-ea"/>
+        <a:cs typeface="Arial" charset="0"/>
+      </a:defRPr>
+    </a:lvl9pPr>
+  </p:defaultTextStyle>
+  <p:extLst>
+    <p:ext uri="{EFAFB233-063F-42B5-8137-9DF3F51BA10A}">
+      <p15:sldGuideLst xmlns:p15="http://schemas.microsoft.com/office/powerpoint/2012/main">
+        <p15:guide id="2" pos="2880" userDrawn="1">
+          <p15:clr>
+            <a:srgbClr val="A4A3A4"/>
+          </p15:clr>
+        </p15:guide>
+        <p15:guide id="3" orient="horz" pos="1620" userDrawn="1">
+          <p15:clr>
+            <a:srgbClr val="A4A3A4"/>
+          </p15:clr>
+        </p15:guide>
+        <p15:guide id="5" pos="158" userDrawn="1">
+          <p15:clr>
+            <a:srgbClr val="A4A3A4"/>
+          </p15:clr>
+        </p15:guide>
+        <p15:guide id="6" pos="5602" userDrawn="1">
+          <p15:clr>
+            <a:srgbClr val="A4A3A4"/>
+          </p15:clr>
+        </p15:guide>
+        <p15:guide id="7" pos="1519" userDrawn="1">
+          <p15:clr>
+            <a:srgbClr val="A4A3A4"/>
+          </p15:clr>
+        </p15:guide>
+        <p15:guide id="8" pos="4241" userDrawn="1">
+          <p15:clr>
+            <a:srgbClr val="A4A3A4"/>
+          </p15:clr>
+        </p15:guide>
+        <p15:guide id="9" pos="3560" userDrawn="1">
+          <p15:clr>
+            <a:srgbClr val="A4A3A4"/>
+          </p15:clr>
+        </p15:guide>
+        <p15:guide id="10" pos="4921" userDrawn="1">
+          <p15:clr>
+            <a:srgbClr val="A4A3A4"/>
+          </p15:clr>
+        </p15:guide>
+        <p15:guide id="11" pos="2200" userDrawn="1">
+          <p15:clr>
+            <a:srgbClr val="A4A3A4"/>
+          </p15:clr>
+        </p15:guide>
+        <p15:guide id="12" pos="839" userDrawn="1">
+          <p15:clr>
+            <a:srgbClr val="A4A3A4"/>
+          </p15:clr>
+        </p15:guide>
+      </p15:sldGuideLst>
+    </p:ext>
+    <p:ext uri="{2D200454-40CA-4A62-9FC3-DE9A4176ACB9}">
+      <p15:notesGuideLst xmlns:p15="http://schemas.microsoft.com/office/powerpoint/2012/main">
+        <p15:guide id="1" orient="horz" pos="3223" userDrawn="1">
+          <p15:clr>
+            <a:srgbClr val="A4A3A4"/>
+          </p15:clr>
+        </p15:guide>
+        <p15:guide id="2" pos="2236" userDrawn="1">
+          <p15:clr>
+            <a:srgbClr val="A4A3A4"/>
+          </p15:clr>
+        </p15:guide>
+      </p15:notesGuideLst>
+    </p:ext>
+  </p:extLst>
+</p:presentation>
